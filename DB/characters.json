@@ -1,0 +1,1733 @@
+[
+    { 
+        "name": "Kaneki",
+        "rarity": 6,
+        "id": 422,
+        "attack": 4030,
+        "hp": 40320,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/XjC5Lmk/f34bf718058803a66e66e9e1878d99d6.jpg",
+        "description": "Tokyo Ghoul"
+    },
+    {
+        "name": "Smokey Brown",
+        "rarity": 2,
+        "id": 1,
+        "attack": 800,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/0qbC9dD/Smokey.webp",
+        "description": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Yamada Naomichi",
+        "rarity": 2,
+        "id": 2,
+        "attack": 810,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/FnkzFjK/Yamada.webp",
+        "description": "Hajime no Ippo"
+    },
+    {
+        "name": "Udon Ise",
+        "rarity": 2,
+        "id": 3,
+        "attack": 805,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/jrLQq51/Udon.webp",
+        "description": "Team Ebisu"
+    },
+    {
+        "name": "Tenten",
+        "rarity": 2,
+        "id": 4,
+        "attack": 950,
+        "hp": 2200,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/5KjftzS/Tenten.webp",
+        "description": "Team 3"
+    },
+    {
+        "name": "Tazuna",
+        "rarity": 2,
+        "id": 5,
+        "attack": 900,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/qk0cNp9/Tazuna.webp",
+        "description": "Bridge builder"
+    },
+    {
+        "name": "Shino Aburame",
+        "rarity": 2,
+        "id": 6,
+        "attack": 975,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/SN9rPFj/Shino.webp",
+        "description": "Team 8"
+    },
+    {
+        "name": "Motoi",
+        "rarity": 2,
+        "id": 7,
+        "attack": 980,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/gjFmnFK/Motoi.jpg",
+        "description": "Cloud Village"
+    },
+    {
+        "name": "Moegi Kazamatsuri",
+        "rarity": 2,
+        "id": 8,
+        "attack": 800,
+        "hp": 1000,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/hWyGrz5/moegi.webp",
+        "description": "Team Ebisu"
+    },
+    {
+        "name": "Meizu",
+        "rarity": 2,
+        "id": 9,
+        "attack": 800,
+        "hp": 1100,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/bPhK8Pm/Meizu.webp",
+        "description": "Demon Brothers"
+    },
+    {
+        "name": "Marlo Freudenberg",
+        "rarity": 2,
+        "id": 10,
+        "attack": 900,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/4M5SV2p/Marlo.jpg",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Kiba Inuzuka",
+        "rarity": 2,
+        "id": 11,
+        "attack": 920,
+        "hp": 1800,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/Ch2wCM2/Kiba.webp",
+        "description": "Team 8"
+    },
+    {
+        "name": "Ino Yamanaka",
+        "rarity": 2,
+        "id": 12,
+        "attack": 920,
+        "hp": 1800,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/vwNZ5yP/Ino.webp",
+        "description": "Team 10"
+    },
+    {
+        "name": "Hinata Hyuuga",
+        "rarity": 2,
+        "id": 13,
+        "attack": 925,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/hXKkQrT/Hinata.webp",
+        "description": "Team 8"
+    },
+    {
+        "name": "Gouzu",
+        "rarity": 2,
+        "id": 14,
+        "attack": 810,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/sb7DSTM/Gouzu.webp",
+        "description": "Demon Brothers"
+    },
+    {
+        "name": "Gabi Braun",
+        "rarity": 2,
+        "id": 15,
+        "attack": 910,
+        "hp": 2500,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/P5YFn7X/Gabi.webp",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Falco Grice",
+        "rarity": 2,
+        "id": 16,
+        "attack": 910,
+        "hp": 2500,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/YbPbM95/Falco.jpg",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Dosu",
+        "rarity": 2,
+        "id": 17,
+        "attack": 830,
+        "hp": 1050,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/tLrLW5S/Dosu.webp",
+        "description": "Sound Village"
+    },
+    {
+        "name": "Choji",
+        "rarity": 2,
+        "id": 18,
+        "attack": 940,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/KrqcgpM/Choji.webp",
+        "description": "Team 10"
+    },
+    {
+        "name": "Sakura Haruno",
+        "rarity": 2,
+        "id": 19,
+        "attack": 900,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/xYFMMyX/297920.webp",
+        "description": "Cloud Village"
+    },
+    {
+        "name": "Zaku Abumi",
+        "rarity": 2,
+        "id": 20,
+        "attack": 850,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/PWKrRsm/36355.jpg",
+        "description": "Sound Village"
+    },
+    {
+        "name": "Yoroi Akado",
+        "rarity": 2,
+        "id": 21,
+        "attack": 800,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/hg8Lhdg/Mission-difficulty-icon-c.webp",
+        "image": "https://i.ibb.co/VBp6kfT/104668.jpg",
+        "description": "Kabuto's team"
+    },
+    {
+        "name": "Tayuya",
+        "rarity": 3,
+        "id": 22,
+        "attack": 1500,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/Czp6Y9m/Tayuya.webp",
+        "description": "Sound ninja"
+    },
+    {
+        "name": "Speedwagon",
+        "rarity": 3,
+        "id": 23,
+        "attack": 1500,
+        "hp": 2500,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/QDkNk7p/Speedwagon.webp",
+        "description": "JoJo's Bizzarre Adventure"
+    },   
+     {
+        "name": "Shikamaru Nara",
+        "rarity": 3,
+        "id": 24,
+        "attack": 1600,
+        "hp": 2700,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/1XBfZFn/Shikamaru.webp",
+        "description": "Team 10"
+    },   
+     {
+        "name": "Sasuke Uchiha",
+        "rarity": 3,
+        "id": 25,
+        "attack": 1600,
+        "hp": 2500,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/FYWmm4b/Sasuke.webp",
+        "description": "Team 7"
+    },  
+      {
+        "name": "Sakon",
+        "rarity": 3,
+        "id": 26,
+        "attack": 1500,
+        "hp": 2210,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/zm8CqkL/Sakon.webp",
+        "description": "Sound ninja"
+    },   
+     {
+        "name": "Rin Nohara",
+        "rarity": 3,
+        "id": 27,
+        "attack": 1400,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/wWG6Mhj/rin.webp",
+        "description": "Team Minato"
+    },   
+     {
+        "name": "Riko Aida",
+        "rarity": 3,
+        "id": 28,
+        "attack": 1500,
+        "hp": 1400,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/mSxhpbk/Riko.webp",
+        "description": "Seiren coach"
+    },   
+     {
+        "name": "Reiner Braun",
+        "rarity": 3,
+        "id": 29,
+        "attack": 1700,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/7N6R2Ks/Reiner.webp",
+        "description": "Shingeki no Kyojin"
+    },   
+     {
+        "name": "Petra",
+        "rarity": 3,
+        "id": 30,
+        "attack": 1400,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/Gk0cDY1/Petra.webp",
+        "description": "Shingeki no Kyojin"
+    },   
+     {
+        "name": "Jazon Ozuma",
+        "rarity": 3,
+        "id": 31,
+        "attack": 1600,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/VpzXQXw/Ozuma.webp",
+        "description": "Hajime no Ippo"
+    },   
+     {
+        "name": "Obito Uchiha",
+        "rarity": 3,
+        "id": 32,
+        "attack": 1600,
+        "hp": 1770,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/Gtzsst2/Obito.webp",
+        "description": "Team Minato"
+    },    
+    {
+        "name": "Neji Hyuuga",
+        "rarity": 3,
+        "id": 33,
+        "attack": 1600,
+        "hp": 2512,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/mvn62Yz/Neji.webp",
+        "description": "Team 3"
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "rarity": 3,
+        "id": 34,
+        "attack": 1600,
+        "hp": 2522,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/bNzJj2V/Naruto.webp",
+        "description": "Team 7"
+    },   
+     {
+        "name": "Marco Bott",
+        "rarity": 3,
+        "id": 35,
+        "attack": 1400,
+        "hp": 2100,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/MSLRb8Y/Marco.webp",
+        "description": "Shingeki no Kyojin"
+    },    
+    {
+        "name": "Rock Lee",
+        "rarity": 3,
+        "id": 36,
+        "attack": 1600,
+        "hp": 2301,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/QQ6hVdC/lee.webp",
+        "description": "Team 3"
+    },   
+     {
+        "name": "Krista",
+        "rarity": 3,
+        "id": 37,
+        "attack": 1300,
+        "hp": 1230,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/JzmjrCZ/Krista.webp",
+        "description": "Shingeki no Kyojin"
+    },   
+     {
+        "name": "Krillin",
+        "rarity": 3,
+        "id": 38,
+        "attack": 1400,
+        "hp": 1300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/jHHt3Ry/Krillin.webp",
+        "description": "Dragon Ball Z"
+    },    
+    {
+        "name": "Kotetsu Hagane",
+        "rarity": 3,
+        "id": 39,
+        "attack": 1500,
+        "hp": 1600,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/jkK59Hd/Kotetsu.webp",
+        "description": "Leaf ninja"
+    },    
+    {
+        "name": "Trunks",
+        "rarity": 3,
+        "id": 40,
+        "attack": 1500,
+        "hp": 1700,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/5k8g3Qy/Kid-Trunks.webp",
+        "description": "Dragon Ball Super"
+    },    
+    {
+        "name": "Kidomaru",
+        "rarity": 3,
+        "id": 41,
+        "attack": 1400,
+        "hp": 1600,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/jwXXyyn/kidomaru.webp",
+        "description": "Sound ninja"
+    },   
+     {
+        "name": "Goku",
+        "rarity": 3,
+        "id": 42,
+        "attack": 1700,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/fNKGNrF/KidGoku.webp",
+        "description": "Dragon ball"
+    },    
+    {
+        "name": "Kankuro",
+        "rarity": 3,
+        "id": 43,
+        "attack": 1600,
+        "hp": 1900,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/VS1Cgtc/Kankuro.webp",
+        "description": "Sand ninja"
+    },  
+      {
+        "name": "Jiroubou",
+        "rarity": 3,
+        "id": 44,
+        "attack": 1500,
+        "hp": 2100,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/6YgmDv7/Jiroubou.jpg",
+        "description": "Sound ninja"
+    },  
+      {
+        "name": "Jiraiya",
+        "rarity": 3,
+        "id": 45,
+        "attack": 1600,
+        "hp": 1900,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/R7WHhFL/Jiraiya.webp",
+        "description": "Team Hiruzen"
+    },   
+     {
+        "name": "Jean Kirstein",
+        "rarity": 3,
+        "id": 46,
+        "attack": 1600,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/jyDk4P6/Jean.webp",
+        "description": "Shingeki no Kyojin"
+    },    
+    {
+        "name": "Iruka Umino",
+        "rarity": 3,
+        "id": 47,
+        "attack": 1500,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/JQS2Lsr/Iruka.webp",
+        "description": "Academy teacher"
+    },    
+    {
+        "name": "Hayate Gekkou",
+        "rarity": 3,
+        "id": 48,
+        "attack": 1500,
+        "hp": 1800,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/Ms23rkg/Hayate.webp",
+        "description": "Leaf ninja"
+    },    
+    {
+        "name": "Goten",
+        "rarity": 3,
+        "id": 49,
+        "attack": 1500,
+        "hp": 1300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/mBSvZRk/Goten.webp",
+        "description": "Dragon Ball Z"
+    },    
+    {
+        "name": "Gohan",
+        "rarity": 3,
+        "id": 50,
+        "attack": 1650,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/xJXJLDV/Gohan.webp",
+        "description": "Dragon Ball Z"
+    },    
+    {
+        "name": "Connie Springer",
+        "rarity": 3,
+        "id": 51,
+        "attack": 1500,
+        "hp": 2100,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/VLScBBk/Connie.webp",
+        "description": "Shingeki no Kyojin"
+    },    
+    {
+        "name": "Bertolt Hoover",
+        "rarity": 3,
+        "id": 52,
+        "attack": 1500,
+        "hp": 1700,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/fvw5CpN/Bertolt.webp",
+        "description": "Shingeki no Kyojin"
+    },    
+    {
+        "name": "Baki",
+        "rarity": 3,
+        "id": 53,
+        "attack": 1400,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/6mmSvNv/103833.jpg",
+        "description": "Sand ninja"
+    },    
+    {
+        "name": "Ebisu",
+        "rarity": 3,
+        "id": 54,
+        "attack": 1300,
+        "hp": 1300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/MhGs9h3/54778.webp",
+        "description": "Instructor"
+    },    
+    {
+        "name": "Ymir",
+        "rarity": 3,
+        "id": 55,
+        "attack": 1550,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/tXTKr8x/Ymir.webp",
+        "description": "Shingeki no Kyojin"
+    },   
+    {
+        "name": "Yamcha",
+        "rarity": 3,
+        "id": 56,
+        "attack": 1600,
+        "hp": 1870,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/8zFvFSK/Yamcha.webp",
+        "description": "Dragon ball"
+    },   
+    {
+        "name": "Yajirobe",
+        "rarity": 3,
+        "id": 57,
+        "attack": 100,
+        "hp": 1300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/0jYcNjr/Yajirobe.webp",
+        "description": "Dragon ball"
+    },   
+     {
+        "name": "Videl",
+        "rarity": 3,
+        "id": 58,
+        "attack": 1300,
+        "hp": 1300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/RY1ny6d/Videl.webp",
+        "description": "Dragon Ball Z"
+    },    
+    {
+        "name": "Utakata",
+        "rarity": 3,
+        "id": 59,
+        "attack": 1600,
+        "hp": 1400,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/gw1yvdR/Utakata.webp",
+        "description": "Six tails jinchuriki"
+    }, 
+    {
+        "name": "Temari",
+        "rarity": 3,
+        "id": 60,
+        "attack": 1500,
+        "hp": 1500,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/Wp6T8yX/Temari.webp",
+        "description": "Sand ninja"
+    },
+    {
+        "name": "Tien Shinhan",
+        "rarity": 3,
+        "id": 61,
+        "attack": 1600,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/QM0FdkX/Mission-difficulty-icon-b.png",
+        "image": "https://i.ibb.co/KGdzM2b/Tien.webp",
+        "description": "Dragon ball"
+    },
+    {
+        "name": "Yuga Aoyama",
+        "rarity": 4,
+        "id": 62,
+        "attack": 2000,
+        "hp": 1400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/2dtkn73/yuga.png",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "Android 17",
+        "rarity": 4,
+        "id": 63,
+        "attack": 2200,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/552R5Qh/17.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Yugito Nii",
+        "rarity": 4,
+        "id": 64,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/bQH5Zqv/Yugito.webp",
+        "description": "Two tails jinchuriki"
+    },
+    {
+        "name": "Yahiko",
+        "rarity": 4,
+        "id": 65,
+        "attack": 2200,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/1zVL6nN/Yahiko.webp",
+        "description": "Akatsuki"
+    },
+    {
+        "name": "Yagura Karatachi",
+        "rarity": 4,
+        "id": 66,
+        "attack": 2500,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/HYTML6x/Yagura.webp",
+        "description": "Fourth Mizukage"
+    },
+    {
+        "name": "Uub",
+        "rarity": 4,
+        "id": 67,
+        "attack": 2400,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/B25X86P/Uub.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Tsume Inuzuka",
+        "rarity": 4,
+        "id": 68,
+        "attack": 2100,
+        "hp": 2100,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/7rdBxkd/Tsume.webp",
+        "description": "Leaf ninja"
+    },
+    {
+        "name": "Shikaku Nara",
+        "rarity": 4,
+        "id": 69,
+        "attack": 2400,
+        "hp": 2500,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/n7gFyDF/Shikaku.webp",
+        "description": "Leaf commander"
+    },
+    {
+        "name": "Sasha Blouse",
+        "rarity": 4,
+        "id": 70,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/KGR9J0v/Sasha.webp",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Samui",
+        "rarity": 4,
+        "id": 71,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/XCzgtB8/Samui.webp",
+        "description": "Cloud ninja"
+    },
+    {
+        "name": "Rasa",
+        "rarity": 4,
+        "id": 72,
+        "attack": 2500,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/Drb7Qr3/Rasa.webp",
+        "description": "Fourth kazakage"
+    },
+    {
+        "name": "Karin",
+        "rarity": 4,
+        "id": 73,
+        "attack": 1900,
+        "hp": 2000,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/K04dK2s/Portrait-0701.png",
+        "description": "Taka"
+    },
+    {
+        "name": "Suigetsu Hozuki",
+        "rarity": 4,
+        "id": 74,
+        "attack": 2200,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/f8FG73W/Portrait-0621.png",
+        "description": "Taka"
+    },
+    {
+        "name": "Roshi",
+        "rarity": 4,
+        "id": 75,
+        "attack": 2500,
+        "hp": 2600,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/cyZqc6H/Portrait-0553.jpg",
+        "description": "Four tails jinchuriki"
+    },
+    {
+        "name": "Haku",
+        "rarity": 4,
+        "id": 76,
+        "attack": 2500,
+        "hp": 2700,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/Nj0hZGF/Haku.webp",
+        "description": "Mist ninja"
+    },
+    {
+        "name": "Kurotsuchi",
+        "rarity": 4,
+        "id": 77,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/DCrk4ff/Portrait-0526.png",
+        "description": "Stone ninja"
+    },
+    {
+        "name": "Mifune",
+        "rarity": 4,
+        "id": 78,
+        "attack": 2100,
+        "hp": 2200,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/LPyMrZM/Portrait-0472.jpg",
+        "description": "Samurai warrior"
+    },
+    {
+        "name": "Konan",
+        "rarity": 4,
+        "id": 79,
+        "attack": 2500,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://cdn.myanimelist.net/images/characters/16/315101.webp",
+        "description": "Akutsuki"
+    },
+    {
+        "name": "Piccolo",
+        "rarity": 4,
+        "id": 80,
+        "attack": 2700,
+        "hp": 2500,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/grhbTMM/Piccolo.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Pan",
+        "rarity": 4,
+        "id": 81,
+        "attack": 2000,
+        "hp": 1800,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/WnH4r44/Pan.webp",
+        "description": "Dragon Ball GT"
+    },
+    {
+        "name": "Omoi",
+        "rarity": 4,
+        "id": 82,
+        "attack": 2100,
+        "hp": 1900,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/wgBtyD8/Omoi.webp",
+        "description": "Cloud ninja"
+    },
+    {
+        "name": "Nagato",
+        "rarity": 4,
+        "id": 83,
+        "attack": 2500,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/k68mn2k/Nagato.webp",
+        "description": "Akatsuki"
+    },
+    {
+        "name": "Mezo Shoji",
+        "rarity": 4,
+        "id": 85,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/TLWhVpz/Mezo-Shoji-Character-Art-3-Smash-Tap.png",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "Mashirao Ojiro",
+        "rarity": 4,
+        "id": 86,
+        "attack": 2100,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/XZNLcM9/Mashirao-Ojiro-Character-Art-3-Smash-Tap.png",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "Maki",
+        "rarity": 4,
+        "id": 87,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/x7nvbMy/Maki.webp",
+        "description": "Sand ninja"
+    },
+    {
+        "name": "Mabui",
+        "rarity": 4,
+        "id": 88,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/P6G3gDq/Mabui.webp",
+        "description": "Fourth Raikage's assistant"
+    },
+    {
+        "name": "Kurenai Yuhi",
+        "rarity": 4,
+        "id": 89,
+        "attack": 2200,
+        "hp": 2600,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/JBTWJYd/Kurenai.webp",
+        "description": "Team 8"
+    },
+    {
+        "name": "Koji Koda",
+        "rarity": 4,
+        "id": 90,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/KjgT5RR/Koji-Koda-Character-Art-2-Smash-Tap.png",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "Kiminobu Kogure",
+        "rarity": 4,
+        "id": 91,
+        "attack": 2300,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/JzTPKKc/Kogure.webp",
+        "description": "Slam Dunk"
+    },
+    {
+        "name": "Kimura Tatsuya",
+        "rarity": 4,
+        "id": 92,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/5LbLsmm/Kimura.webp",
+        "description": "Hajime no Ippo"
+    },
+    {
+        "name": "Kimimaro",
+        "rarity": 4,
+        "id": 93,
+        "attack": 2400,
+        "hp": 2450,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/Kb8Hc9D/kimimaro.webp",
+        "description": "Sound five"
+    },
+    {
+        "name": "Karui",
+        "rarity": 4,
+        "id": 94,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/bRGjgPR/Karui.webp",
+        "description": "Cloud ninja"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "rarity": 4,
+        "id": 95,
+        "attack": 2500,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/bJJvcg6/Kakashi.jpg",
+        "description": "Anbu"
+    },
+    {
+        "name": "Kabuto Yakushi",
+        "rarity": 4,
+        "id": 96,
+        "attack": 2400,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/44xDvZQ/Kabuto.webp",
+        "description": "Naruto"
+    },
+    {
+        "name": "Jonathan Joestar",
+        "rarity": 4,
+        "id": 97,
+        "attack": 2400,
+        "hp": 2410,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/995W0Xb/Jonathan.webp",
+        "description": "JoJo's Bizzarre Adventure"
+    },
+    {
+        "name": "Izumo Kamizuki",
+        "rarity": 4,
+        "id": 98,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/gjfS0Lf/Izumo.jpg",
+        "description": "Leaf ninja"
+    },
+    {
+        "name": "All Might Deku",
+        "rarity": 4,
+        "id": 99,
+        "attack": 2500,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/DWrWd0b/Izuku-Midoriya-Upgrade-Character-Art-21-Smash-Rising.webp",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "Inoichi Yamanaka",
+        "rarity": 4,
+        "id": 100,
+        "attack": 2010,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/zr0PYj4/Inoichi.jpg",
+        "description": "Naruto Shipuuden"
+    },
+    {
+        "name": "Tenya Ida",
+        "rarity": 4,
+        "id": 101,
+        "attack": 2200,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/MMHXNF8/Iida.webp",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "Ibiki Morino",
+        "rarity": 4,
+        "id": 102,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/6WWD1pr/Ibiki.webp",
+        "description": "Torture and Interrogation Force"
+    },
+    {
+        "name": "Hiashi Hyuuga",
+        "rarity": 4,
+        "id": 103,
+        "attack": 2100,
+        "hp": 2500,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/9sW8Qr2/Hiashi.webp",
+        "description": "Head of Hyuuga clan"
+    },
+    {
+        "name": "Hange Zoe",
+        "rarity": 4,
+        "id": 104,
+        "attack": 2300,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/s1X0bDZ/Hange.webp",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Han",
+        "rarity": 4,
+        "id": 105,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/94WxVLy/Han.webp",
+        "description": "Five tails jinchuriki"
+    },
+    {
+        "name": "Captain Ginyu",
+        "rarity": 4,
+        "id": 106,
+        "attack": 2100,
+        "hp": 2300,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/54YXfBQ/Ginyu.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Genma Shiranui",
+        "rarity": 4,
+        "id": 107,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/YhbhKDx/Genma.webp",
+        "description": "Leaf ninja"
+    },
+    {
+        "name": "Fuu",
+        "rarity": 4,
+        "id": 108,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/48Zq5Y1/Fuu.webp",
+        "description": "Seven tails jinchuriki"
+    },
+    {
+        "name": "Frieza",
+        "rarity": 4,
+        "id": 109,
+        "attack": 2100,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/kSGws7Y/Frieza.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Eren Yeager",
+        "rarity": 4,
+        "id": 110,
+        "attack": 2000,
+        "hp": 2100,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/X5PrT06/Eren.webp",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Dio Brando",
+        "rarity": 4,
+        "id": 111,
+        "attack": 2600,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/znkLyMV/Dio.webp",
+        "description": "JoJo's Bizzarre Adventure"
+    },
+    {
+        "name": "Dende",
+        "rarity": 4,
+        "id": 112,
+        "attack": 2000,
+        "hp": 1400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/5YJg1tJ/Dende.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Dan Kato",
+        "rarity": 4,
+        "id": 113,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/yy9XJz1/Dan.webp",
+        "description": "Leaf ninja"
+    },
+    {
+        "name": "Chiatzu",
+        "rarity": 4,
+        "id": 114,
+        "attack": 1800,
+        "hp": 1400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/wW2VqcC/Chiaozsu.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Cell",
+        "rarity": 4,
+        "id": 115,
+        "attack": 2200,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/KzCkFv7/Cell.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Majin Buu",
+        "rarity": 4,
+        "id": 116,
+        "attack": 2300,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/N7SmWR0/Buu.webp",
+        "description": "Dragon Ball Z"
+    },
+    {
+        "name": "Armin Arlert",
+        "rarity": 4,
+        "id": 117,
+        "attack": 2000,
+        "hp": 1700,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/vmYkftK/Armin.webp",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Asuma Sarutobi",
+        "rarity": 4,
+        "id": 118,
+        "attack": 2400,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/CtnBK8Z/Asuma.webp",
+        "description": "Team 10"
+    },
+    {
+        "name": "Aoki Masaru",
+        "rarity": 4,
+        "id": 119,
+        "attack": 2022,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/zVCFZ6Y/Aoki.webp",
+        "description": "Hajime no Ippo"
+    },
+    {
+        "name": "Annie Leonhart",
+        "rarity": 4,
+        "id": 120,
+        "attack": 2500,
+        "hp": 2450,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/Kxx4Qd0/Annie.webp",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Anko Mitarashi",
+        "rarity": 4,
+        "id": 121,
+        "attack": 2300,
+        "hp": 2320,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/Jn7YrVP/Anko.webp",
+        "description": "Leaf ninja"
+    },
+    {
+        "name": "Akutsuchi",
+        "rarity": 4,
+        "id": 122,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/MRSD5yf/Akutsuchi.webp",
+        "description": "Stone ninja"
+    },
+    {
+        "name": "Choza Akimichi",
+        "rarity": 4,
+        "id": 123,
+        "attack": 2200,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/qLSV0qG/147751.webp",
+        "description": "Akimichi clan"
+    },
+    {
+        "name": "Gaara",
+        "rarity": 4,
+        "id": 124,
+        "attack": 2200,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/jy8FqpB/109696.webp",
+        "description": "Sand ninja"
+    },
+    {
+        "name": "Android 18",
+        "rarity": 4,
+        "id": 125,
+        "attack": 2300,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/fxFjMHX/18.webp",
+        "description": "Dragon Ball Super"
+    },
+    {
+        "name": "Shibi Aburame",
+        "rarity": 4,
+        "id": 126,
+        "attack": 2000,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/9w2T2y9/Mission-difficulty-icon-a.png",
+        "image": "https://i.ibb.co/k15gHn9/103841.webp",
+        "description": "Naruto Shipuuden"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "rarity": 5,
+        "id": 127,
+        "attack": 2600,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/L0F2JwK/Mission-difficulty-icon-s.png",
+        "image": "https://i.ibb.co/DCzQ4S2/284129.webp",
+        "description": "Team 7"
+    },
+    {
+        "name": "Might Guy",
+        "rarity": 5,
+        "id": 128,
+        "attack": 2600,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/L0F2JwK/Mission-difficulty-icon-s.png",
+        "image": "https://i.ibb.co/R3g4HD7/103576.webp",
+        "description": "Team 3"
+    },
+    {
+        "name": "Misa amane",
+        "rarity": 5,
+        "id": 173,
+        "attack": 2400,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/L0F2JwK/Mission-difficulty-icon-s.png",
+        "image": "https://i.ibb.co/WscsD2s/30971.webp",
+        "description": "Death Note"
+    },
+    {
+        "name": "Ken Kaneki",
+        "rarity": 5,
+        "id": 129,
+        "attack": 2400,
+        "hp": 2400,
+        "thumbnail": "https://i.ibb.co/L0F2JwK/Mission-difficulty-icon-s.png",
+        "image": "https://i.ibb.co/3C3ddnc/Kaneki.webp",
+        "description": "Tokyo Ghoul"
+    },
+    {
+        "name": "Kyojuro Rengoku",
+        "rarity": 6,
+        "id": 130,
+        "attack": 3400,
+        "hp": 3000,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/9YpS4p4/8ba19d2c866c852d73a3d7c28581de68.jpg",
+        "description": "Kimentsu no Yaiba"
+    },
+    {
+        "name": "Kanao Tsuyuri",
+        "rarity": 6,
+        "id": 131,
+        "attack": 3500,
+        "hp": 3100,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/zG0JTXT/8bbb8875191dd75d3964ba69fbfbeafc.jpg",
+        "description": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Minato Namikaze",
+        "rarity": 6,
+        "id": 132,
+        "attack": 3600,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/wzCSRY8/12222.gif",
+        "description": "Nine-tails chakra mode"
+    },
+    {
+        "name": "Mikasa Ackerman",
+        "rarity": 6,
+        "id": 133,
+        "attack": 3500,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/g7k4kyM/Eis-FAAUWk-AE5-MBy.jpg",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Madara Uchiha",
+        "rarity": 6,
+        "id": 134,
+        "attack": 3700,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/MntnXkg/Portrait-0748.jpg",
+        "description": "Ten-tails jinchūriki"
+    },
+    {
+        "name": "Obito Uchiha",
+        "rarity": 6,
+        "id": 135,
+        "attack": 3400,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/dfvMmr9/Portrait-0857.png",
+        "description": "??"
+    },
+    {
+        "name": "Obito Uchiha",
+        "rarity": 6,
+        "id": 136,
+        "attack": 3550,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/vwD99ns/Portrait-2081.jpg",
+        "description": "Ten-tails jinchūriki"
+    },
+    {
+        "name": "Itachi Uchiha",
+        "rarity": 6,
+        "id": 137,
+        "attack": 3500,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/FJ4zxbn/Portrait-2032.png",
+        "description": "Akutsuki ?"
+    },
+    {
+        "name": "Naruto Uzamaki",
+        "rarity": 6,
+        "id": 138,
+        "attack": 3000,
+        "hp": 3250,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/tPVz4Tg/Portrait-2138.png",
+        "description": "Nine-tails chakra"
+    },
+    {
+        "name": "Minato Namikaze",
+        "rarity": 6,
+        "id": 139,
+        "attack": 3200,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/LhRck2K/Portrait-2101-1.png",
+        "description": "Fourth hokage"
+    },
+    {
+        "name": "Madara Uchiha",
+        "rarity": 6,
+        "id": 140,
+        "attack": 3500,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/thgHQxD/Portrait-2098.png",
+        "description": "Reborn"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "rarity": 6,
+        "id": 141,
+        "attack": 3650,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/mRn6J10/Portrait-2091.jpg",
+        "description": "Double Sharingan"
+    },
+    {
+        "name": "Naruto Uzamaki",
+        "rarity": 6,
+        "id": 142,
+        "attack": 3800,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/cJW9T8T/Portrait-2090.png",
+        "description": "Nine-tails chakra mode"
+    },
+    {
+        "name": "Hashirama Senju",
+        "rarity": 6,
+        "id": 143,
+        "attack": 3650,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/5rHKTTy/Portrait-2058.png",
+        "description": "First hokage"
+    },
+    {
+        "name": "Tobi",
+        "rarity": 6,
+        "id": 144,
+        "attack": 3200,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/yBrrBkd/Portrait-2054.png",
+        "description": "Masked man"
+    },
+    {
+        "name": "Madara Uchiha",
+        "rarity": 6,
+        "id": 145,
+        "attack": 3500,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/BCnfVGf/Portrait-0870.png",
+        "description": "Reanimation"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "rarity": 6,
+        "id": 146,
+        "attack": 3620,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/FbSZnQP/Portrait-0855.png",
+        "description": "Fourth Great Ninja war"
+    },
+    {
+        "name": "Pain",
+        "rarity": 6,
+        "id": 147,
+        "attack": 3600,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/Z2QCL6B/Portrait-0818.jpg",
+        "description": "Akutsuki"
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "rarity": 6,
+        "id": 148,
+        "attack": 3800,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/YTzJxjw/Portrait-0803.png",
+        "description": "Fourth Great Ninja War"
+    },
+    {
+        "name": "Mecha Naruto",
+        "rarity": 6,
+        "id": 149,
+        "attack": 3200,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/hmD23ML/Portrait-0791.jpg",
+        "description": "lol"
+    },
+    {
+        "name": "Hashirama Senju",
+        "rarity": 6,
+        "id": 150,
+        "attack": 3550,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/ZzZXs8w/Portrait-0746.png",
+        "description": "Reanimation"
+    },
+    {
+        "name": "Shintaro Midorima",
+        "rarity": 6,
+        "id": 151,
+        "attack": 3700,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/KxJc3MN/let-the-game-begin-by-sam-baten-dadpzyd-fullview.jpg",
+        "description": "Kuroko no Basuke"
+    },
+    {
+        "name": "Sasori",
+        "rarity": 6,
+        "id": 152,
+        "attack": 3666,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/vwxxYsJ/Portrait-0653.png",
+        "description": "My man"
+    },
+    {
+        "name": "Jotaro Kujo",
+        "rarity": 6,
+        "id": 153,
+        "attack": 3750,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/DbK8dMn/e2d91ea532cdb757f8fd779ca8b8644c.jpg",
+        "description": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Eren Jaeger",
+        "rarity": 6,
+        "id": 154,
+        "attack": 3800,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/ypVfFHL/e1c9269a25c58edbc43315302af63b99.jpg",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Deidara & Sasori",
+        "rarity": 6,
+        "id": 155,
+        "attack": 3777,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/Pmn5mGC/deidara.png",
+        "description": "My man"
+    },
+    {
+        "name": "Seijuro Akashi",
+        "rarity": 6,
+        "id": 156,
+        "attack": 3700,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/h2C6QMk/d369dd2595eb00665a587d44c8827eeb.jpg",
+        "description": "Kuroko no Basuke"
+    },
+    {
+        "name": "Shinobu Kocho",
+        "rarity": 6,
+        "id": 157,
+        "attack": 3500,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/27Fm9F8/c3617885f43e6d1a3a1c3c72a4276e4d.jpg",
+        "description": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Giyu Tomioka",
+        "rarity": 6,
+        "id": 158,
+        "attack": 3555,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/Jd9fQQS/b1c39c13b9b7f9e05b0afcec19728782-1.jpg",
+        "description": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Levi Ackerman",
+        "rarity": 6,
+        "id": 159,
+        "attack": 3755,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/FmfgWj0/c86b15e5edefa2381f2ef0cae52c6d89.jpg",
+        "description": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Light Yagami",
+        "rarity": 6,
+        "id": 160,
+        "attack": 3812,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/bLxtMSv/b99bfbba7aac7873270bdb4e4adcbfa4.jpg",
+        "description": "Death Note"
+    },
+    {
+        "name": "L",
+        "rarity": 6,
+        "id": 161,
+        "attack": 3812,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/DVkGXsZ/557733c519aa5d7e0276a09d5884e785.jpg",
+        "description": "Death Note"
+    },
+    {
+        "name": "Zenitsu Agatsuma",
+        "rarity": 6,
+        "id": 162,
+        "attack": 3400,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/BykYcww/3820d6c1d63c1819b5c9b65a16290210.jpg",
+        "description": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Ippo Makunouchi",
+        "rarity": 6,
+        "id": 163,
+        "attack": 3610,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/7pJxjfF/32678.webp",
+        "description": "Hajime no Ippo"
+    },
+    {
+        "name": "Might Guy",
+        "rarity": 6,
+        "id": 164,
+        "attack": 3700,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/dDkkxgB/1111.png",
+        "description": "Eight Gates"
+    },
+    {
+        "name": "Nezuko Kamado",
+        "rarity": 6,
+        "id": 165,
+        "attack": 3000,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/N9NH7hn/0738e05fa7acf17841364558581ecfbd.jpg",
+        "description": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Inosuke Hashibira",
+        "rarity": 6,
+        "id": 166,
+        "attack": 3500,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/g6615NH/94e04853f9b2e177c3b37958791c761d.jpg",
+        "description": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Dio Brando",
+        "rarity": 6,
+        "id": 167,
+        "attack": 3700,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/wcfFKpp/41aba72fabacdbdf15ea3c41bcb1f815.jpg",
+        "description": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Mob and Reigen",
+        "rarity": 6,
+        "id": 168,
+        "attack": 3711,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/gjmK9h8/cd9c6a73290879259de766584d1f92ea.jpg",
+        "description": "Mob Psycho 100"
+    },
+    {
+        "name": "Izuku Midoriya",
+        "rarity": 6,
+        "id": 169,
+        "attack": 3700,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/P1zkLvy/Izuku-Midoriya-Character-Art-8-Smash-Rising.png",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "Mirio Togata",
+        "rarity": 6,
+        "id": 170,
+        "attack": 3750,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/GQZDDXX/Mirio.png",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "All Might",
+        "rarity": 6,
+        "id": 171,
+        "attack": 3800,
+        "hp": 3450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/NCDYrxF/All-Might-Character-Art-Smash-Tap.png",
+        "description": "My Hero Academia"
+    },
+    {
+        "name": "Tien and Chiaotzu",
+        "rarity": 6,
+        "id": 172,
+        "attack": 3300,
+        "hp": 2450,
+        "thumbnail": "https://i.ibb.co/yQ6RdJd/Mission-difficulty-icon-ss.png",
+        "image": "https://i.ibb.co/wN9PRW9/ezgif-5-027fdf4b5a44.gif",
+        "description": "Dragon Ball Z"
+    }
+]
+

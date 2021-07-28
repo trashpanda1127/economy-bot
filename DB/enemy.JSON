@@ -1,0 +1,136 @@
+
+[
+    {
+        "name": "Mizuki",
+        "difficulty": 1,
+        "image": "https://i.ibb.co/sVSrmnw/Mizukinarutopast1.png",
+        "description": "A Chunin level ninja, Mizuki was a former teacher at the Ninja Academy. After Naruto fails to graduate from the Academy, Mizuki tells Naruto that there is another way to graduate, and tricks him into stealing the forbidden scroll of sealings for him."
+    },
+    {
+        "name": "Haku",
+        "difficulty": 2,
+        "image": "https://i.ibb.co/vPYgDC7/Haku-Render.png",
+        "description": "Haku was raised by Zabuza as 'a tool' to be called upon when needed in exchange for his freedom from the slums. He learned how to use his unique abilities and eventually became a Hunter-Nin. When Zabuza's plan to kill Mizukage fails, Haku fled the village along with Zabuza"
+    },
+    {
+        "name": "Gaara",
+        "difficulty": 3,
+        "image": "https://i.ibb.co/1Q2fbFm/Gaara-Naruto.png",
+        "description": "Gaara was made the jinchūriki of the One-Tailed Shukaku before he was born, causing the villagers of Suna to fear him as a monster. With nobody to connect to, Gaara grew up hating the world and looking out only for himself, giving his life meaning by killing anyone he came across."
+    },
+    {
+        "name": "Kabuto",
+        "difficulty": 4,
+        "image": "https://i.ibb.co/fvcmsnG/Base-Kabuto2.png",
+        "description": "Kabuto spent most of his life as a spy working for many different individuals, organisations, and countries during his life. His natural talents in intelligence-gathering and medicine attracted the attention of Orochimaru when he was younger, who made Kabuto his right-hand man."
+    },
+    {
+        "name": "Kimimaro",
+        "difficulty": 5,
+        "image": "https://i.ibb.co/txwjzq9/Kimimaro-Naruto1.png",
+        "description": "The sole survivor of the Kaguya clan. Upon dedicating his life to Orochimaru, he became the leader of the formerly-named Sound Five until he fell ill, which forced him to leave the group."
+    },
+    {
+        "name": "Zabuza",
+        "difficulty": 6,
+        "image": "https://i.ibb.co/YXHV02W/Zabuza.png",
+        "description": "Given the moniker Demon of the Hidden Mist, Zazbua is a rogue ninja from Kirigakure's Seven Ninja Swordsmen of the Mist"
+    },
+    {
+        "name": "Deidara",
+        "difficulty": 7,
+        "image": "https://i.ibb.co/7XxBXW1/Deidara02.png",
+        "description": "S-rank rogue ninja from Iwagakure. During his time in the village, he was a member of the Explosion Corps. After defecting from the village, he was forced into Akatsuki and was its youngest member."
+    },
+    {
+        "name": "Sasori",
+        "difficulty": 8,
+        "image": "https://i.ibb.co/YptZLqf/Sasori-of-the-red-sand.png",
+        "description": "Renowned as Sasori of the Red Sand, he is a S-rank rogue ninja from Sunagakure's Puppet Brigade and a member of Akatsuki, where he was partnered with Orochimaru and alter Deidara."
+    },
+    {
+        "name": "Hidan",
+        "difficulty": 9,
+        "image": "https://i.ibb.co/1dw3wYV/Hidan-full.png",
+        "description": "An S-rank rogue ninja who defected from Yugakure and later joined the Akatsuki. There he partnered with Kakuzu."
+    },
+    {
+        "name": "Kakuzu",
+        "difficulty": 10,
+        "image": "https://i.ibb.co/k3Mk297/Kakuzu-Render.png",
+        "description": "S-rank rogue ninja from Takigakure and a member of Akatsuki who was partnered with Hidan."
+    },
+    {
+        "name": "Kisame",
+        "difficulty": 11,
+        "image": "https://i.ibb.co/XJ3RXT0/Kisame.png",
+        "description": "Feared as the Monster of the Hidden Mist, a shinobi of Kirigakure's Hoshigaki Clan. After joining the Seven Ninja Swordsmen of the Mist, he became an S-rank rogue ninja and partnered with Itachi Uchiha when he joined the Akutsuki."
+    },
+    {
+        "name": "Tobi",
+        "difficulty": 12,
+        "image": "https://i.ibb.co/YZRN7Sf/Tobi-Orange-Mask-Render.png",
+        "description": "A masked man and member of the Akutsuki"
+    },
+    {
+        "name": "Orochimaru",
+        "difficulty": 13,
+        "image": "https://i.ibb.co/PDZ1sWr/Orochimaru.png",
+        "description": "One of Konohagakure's legendary Sannin. With a life-ambition to learn all of the world's secrets, Orochimaru seeks immortality so that he might live all of the lives necessary to accomplish his task."
+    },
+    {
+        "name": "Danzo",
+        "difficulty": 14,
+        "image": "https://i.ibb.co/vQG4x1G/Danzo-full.png",
+        "description": "As the founder and leader of Root, Danzo gained notoriety as The Darkness of the Shinobi because of his frequent unsanctioned actions and his often-suspected undermining of specific Konoha personnel."
+    },
+    {
+        "name": "Kabuto",
+        "difficulty": 15,
+        "image": "https://i.ibb.co/xHzh32k/Kabuto-Yakushi-Sage-Mode.png",
+        "description": "Due to the larger chakra reserves he gains from Orochimaru's remains, Kabuto is able to learn senjutsu from the White Snake Sage at the Ryūchi Cave and enter Sage Mode."
+    },
+    {
+        "name": "Zetsu",
+        "difficulty": 16,
+        "image": "https://i.ibb.co/Q6Cww1X/Black-Zetsu-Full.png",
+        "description": "Member of the Akatsuki and the physical manifestation of Princess Kaguy's will."
+    },
+    {
+        "name": "Madara Uchiha (Masked)",
+        "difficulty": 17,
+        "image": "https://i.ibb.co/ZxD72b3/Obito-War-Mask-Render.png",
+        "description": "The man who started the Fourth Shinobi World War, challenging the Five Great Shinobi lands."
+    },
+
+    {
+        "name": "Pain",
+        "difficulty": 18,
+        "image": "https://i.ibb.co/BjsH9r2/Deva-Parth-Naruto.png",
+        "description": "Initially an idealist devoted to bringing peace to the violent Ninja World, he is the apparent leader of Akatsuki and the lord of Amegakure"
+    },
+    {
+        "name": "Itachi Uchiha",
+        "difficulty": 19,
+        "image": "https://i.ibb.co/tLWMfKM/Itachi-Uchiha-Naruto.png",
+        "description": "A shinobi of Konohagakure's Uchiha clan who served as an Anbu Captain. He later became an international criminal after murdering his entire clan, sparing only his younger brother, Sasuke. He afterwards joined the international criminal organisation known as Akatsuki"
+    },
+    {
+        "name": "Obito Uchiha",
+        "difficulty": 20,
+        "image": "https://i.ibb.co/YPng6WL/Obito-Unmasked-Render.png",
+        "description": "A member of Konohagakure's Uchiha clan. He was believed to have died during the Third Shinobi World War, his only surviving legacy being the Sharingan he gave to his teammate, Kakashi Hatake. In truth, Obito was saved from death and trained by Madara Uchiha, but the events of the war left Obito disillusioned with reality, and he inherited Madara's plan to create an ideal world."
+    },
+    {
+        "name": "Madara Uchiha",
+        "difficulty": 21,
+        "image": "https://i.ibb.co/MCnVKRR/Madara-Uchiha.png",
+        "description": "The legendary leader of the Uchiha clan. He founded Konohagakure alongside his childhood friend and rival, Hashirama Senju, with the intention of beginning an era of peace."
+    },
+    {
+        "name": "Kaguya",
+        "difficulty": 22,
+        "image": "https://i.ibb.co/rFqmt8r/Kaguya-Naruto.png",
+        "description": "Long before the founding of the hidden villages, during an era of endless war, Kaguya consumed the fruit of the God Tree and became the first wielder of chakra on Earth, before later merging with the tree to become the Ten-Tails."
+    }
+]
